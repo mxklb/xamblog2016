@@ -21,7 +21,7 @@ block content
 				li
 					span.year-label(style='line-height:' + yearHeight+'em')=yearsK[year]
 					ul(style='margin-left:4em')
-						- var monthsK = _.chain(months).keys().reverse().value()
+						- var monthsK = _.chain(months).keys().value()
 						- for(month in monthsK){
 							- var monthHeight = lineHeight * months[monthsK[month]].length
 							li

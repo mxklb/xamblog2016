@@ -3,7 +3,7 @@
     "url": "http://localhost:8080",
     "name": "xamblog",
     "owner": "xam blak",
-    "description": "thailand 2016"
+    "description": "backpacking thailand"
   },
   "plugins": [
     "./plugins/paginator.coffee"
@@ -21,6 +21,6 @@
     "smartypants": true
   },
   "paginator": {
-    "perPage": 1
+    "perPage": 2
   }
 }

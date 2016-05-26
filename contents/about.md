@@ -2,6 +2,6 @@
 view: none
 ---
 
-**omepag** [xamblak.de][1]
+blog tagger style - **omepag** [xamblak.de][1]
 
 [1]: http://www.xamblak.de

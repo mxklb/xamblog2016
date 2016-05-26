@@ -1,0 +1,16 @@
+---
+author: xam
+template: article.jade
+date: 2016-02-14
+title: Pai Sunset Views
+---
+
+After an amazing mountain pass drive we arrived in Pai. A nice beautiful city in the jungle hills in north thailand. Check out this awesome sunset views at the mountains..
+
+![Photo](https://dl.dropboxusercontent.com/u/53826890/IMAG0657-1024x577.jpg)
+
+![Photo](https://dl.dropboxusercontent.com/u/53826890/IMAG0669-1024x575.jpg)
+
+![Photo](https://dl.dropboxusercontent.com/u/53826890/IMAG0708-1024x577.jpg)
+
+Cheers!

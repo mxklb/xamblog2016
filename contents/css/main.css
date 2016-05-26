@@ -216,10 +216,12 @@ footer .copy, footer .copy a {
 
 .article .content img {
   display: block;
-  margin: 10 auto;
   width: 100%;
-  margin-top: 10;
-  margin-bottom: 10;
+}
+
+.content img {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 .more, .date {
@@ -437,4 +439,3 @@ code.lang-markdown .bullet {
     margin-bottom: 1em;
   }
 }
-

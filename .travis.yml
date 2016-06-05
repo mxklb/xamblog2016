@@ -6,7 +6,7 @@ before_install:
 script:
 - wintersmith build
 after_success:
-- bash ./prepare.sh build/ http://localhost:8080 http://mxklb.github.io/xamblog2013
+- bash ./prepare.sh build/ http://localhost:8080 http://mxklb.github.io/xamblog2016
 - bash ./gh-pages-deploy.sh
 branches:
   only: master

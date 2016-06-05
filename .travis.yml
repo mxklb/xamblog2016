@@ -6,7 +6,7 @@ before_install:
 script:
   - wintersmith build
 after_success: 
-  - bash gh-pages-deploy.sh
+  - bash prepare.sh
 branches:
   only:
     master

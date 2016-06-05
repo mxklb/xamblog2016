@@ -1,16 +1,14 @@
 language: node_js
 node_js:
-  - "0.10"
+- '0.10'
 before_install:
-  - npm install wintersmith
+- npm install wintersmith
 script:
-  - wintersmith build
-after_success: 
-  - bash ./prepare.sh build/ http://localhost:8080 http://mxklb.github.io/xamblog2013
+- wintersmith build
+after_success:
+- bash ./prepare.sh build/ http://localhost:8080 http://mxklb.github.io/xamblog2013
 branches:
-  only:
-    master
-env: 
+  only: master
+env:
   global:
-    secure: "secure_token_here_quoted"
-
+  - secure: JoXOI72hARW+/oCxPkn4NcXZ2I20E0nqzoydiM44f8R7wujaDo0IBTR85N/yIRmy5ReNnbrGZH066LUJxrtWxYJVySGWvkbJu7VooRfUy4IlkabZFOR27Hz/VnyN9042mojh68uyJy7gXZSrU4m2/kDAU/LlbAr3bO8olF7T7JX9rzccPCdRLPkmTm1LEBxRT6LA7k8GobTqeNXw2Dt0ur24NEtN9UHLAvRYkTUkvB/GC01gBDC2GhHAZh7GcnzmGrrzMl2Bov2aKHPx/asmOIZ8Re+yv8QeWQDByzxL6s6R5dwqr4Czjsxfdr7eREvZF4DoZBP8q5uJuRKbs2v8jEvt66MjZqh9PRJWyU88ecFisFxIGmJPRTKGXiPnCfOf8Dfk4zVA0YEpMCj5GX6prVl5V9Z7B9meupwlXpcDDkKRF9Bm1QpW5/WabXhTbNbsMfCr06ButVjexydyedqOSVoo4H2Cg2au26KzA3POMx3OLaz6Yo+KVKoQBivL2D1rUK/DWmKBNr7K2e4M9ylgeEApYdAHW40oox+QwuceRRLbLII09GePURSMgUvXop4QcOkXA7hVUBCZBHJ9ovbe5GqmYarWe5DivA1nLCOY9RtZSVOuRdcwUxdFGNDvnoLH+gPWDUyEtmejk67PiYnmY/3pHNrOr8NfZSXxxqrNKVw=

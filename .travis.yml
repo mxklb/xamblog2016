@@ -6,7 +6,7 @@ before_install:
 script:
   - wintersmith build
 after_success: 
-  - bash prepare.sh
+  - bash ./prepare.sh build/ http://localhost:8080 http://mxklb.github.io/xamblog2013
 branches:
   only:
     master

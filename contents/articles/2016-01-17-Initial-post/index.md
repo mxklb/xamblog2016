@@ -7,4 +7,4 @@ title: Travelling South East Asia
 
 In about one week I'll fly to Thailand .. Here I'll post some of my experiences ;)
 
-![Photo](https://dl.dropboxusercontent.com/u/53826890/thaiflag2.png)
+![Photo](thaiflag2.png)

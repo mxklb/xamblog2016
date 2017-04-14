@@ -9,16 +9,16 @@ Yesterday we arrived at Ko Tao. A beautiful touristic rockey island within the g
 
 Here is the island photographed during our arrival by ferry,
 
-![Photo](https://dl.dropboxusercontent.com/u/53826890/IMAG0996-1280x407.jpg)
+![Photo](IMAG0996-1280x407.jpg)
 
 as well as a viewpoint up in the hills, which shows Ao Mae Hat. This is where the ferry arrived.
 
-![Photo](https://dl.dropboxusercontent.com/u/53826890/IMAG1075-1024x319.jpg)
+![Photo](IMAG1075-1024x319.jpg)
 
 This is the beach Ao Tanote where our bungalows are located up in the hills.
 
-![Photo](https://dl.dropboxusercontent.com/u/53826890/IMAG1015-1280x191.jpg)
+![Photo](IMAG1015-1280x191.jpg)
 
 Additional a nice shot from above the hills, taken from our bungalows "Tanote View" restaurant..
 
-![Photo](https://dl.dropboxusercontent.com/u/53826890/IMAG1009-1024x283.jpg)
+![Photo](IMAG1009-1024x283.jpg)
